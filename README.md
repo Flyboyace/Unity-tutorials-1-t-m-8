@@ -1,6 +1,6 @@
 # Unity-tutorials-0-t-m-8
 
-TUTORIAL 1
+TUTORIAL 1 animatie
 
 ![tutorial 1 animatie](https://github.com/user-attachments/assets/ce7cddc7-d902-422b-8b59-a5589d954a96)
 
@@ -9,3 +9,11 @@ TUTORIAL 1
 [Uploading Playermovement.cs…](https://github.com/Flyboyace/Unity-tutorials-1-t-m-8/blob/main/Playermovement.cs)
 
 hierboven het script dat ik gebruikt heb om de animaties te laten werken. het script is een movement script uit een van mijn projecten.
+
+TUTORIAL 2 beweging en besturen
+
+![tutorial 1 animatie](https://github.com/user-attachments/assets/ce7cddc7-d902-422b-8b59-a5589d954a96)
+zelfde gif gebruikt omdat hier ook de movement in zit
+[Uploading Cameramovement.cs…]()
+
+
