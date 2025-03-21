@@ -14,6 +14,10 @@ TUTORIAL 2 beweging en besturen
 
 ![tutorial 1 animatie](https://github.com/user-attachments/assets/ce7cddc7-d902-422b-8b59-a5589d954a96)
 zelfde gif gebruikt omdat hier ook de movement in zit
-[Uploading Cameramovement.cs…]()
+
+[Uploading Playermovement.cs…](https://github.com/Flyboyace/Unity-tutorials-1-t-m-8/blob/main/Playermovement.cs)
+hierboven nogmaals de playermovement want die heb ik natuurlijk gebruikt voor de movement
+[Uploading Cameramovement.cs…](https://github.com/Flyboyace/Unity-tutorials-1-t-m-8/blob/main/Cameramovement.cs)
+hierboven nog de cameramovement voor het besturen van de camera
 
 
