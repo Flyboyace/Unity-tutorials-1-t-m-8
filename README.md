@@ -24,4 +24,7 @@ hierboven nogmaals de playermovement want die heb ik natuurlijk gebruikt voor de
 
 hierboven nog de cameramovement voor het besturen van de camera
 
+TUTORIAL 3 springen op platforms
+
+
 
