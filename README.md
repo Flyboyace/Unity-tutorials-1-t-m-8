@@ -8,4 +8,4 @@ TUTORIAL 1
 
 [Uploading Playermovement.cs…](https://github.com/Flyboyace/Unity-tutorials-1-t-m-8/blob/main/Playermovement.cs)
 
-hierboven het script dat ik gebruikt heb om de animaties te laten werken 
+hierboven het script dat ik gebruikt heb om de animaties te laten werken. het script is een movement script uit een van mijn projecten
