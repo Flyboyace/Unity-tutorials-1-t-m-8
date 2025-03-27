@@ -28,6 +28,8 @@ TUTORIAL 3 springen op platforms
 
 ![tutorial 3 spring op platformen](https://github.com/user-attachments/assets/6f08ad3e-adde-4006-a87b-508eb8255c3d)
 
+ik heb mesh colliders gebruikt op deze voertuigen zodat ik erop kan staan
+
 
 
 
