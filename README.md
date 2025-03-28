@@ -34,7 +34,7 @@ hierboven het script die ik gebruik om mijn character te laten springen
 
 ik heb mesh colliders gebruikt op deze voertuigen zodat ik erop kan staan
 
-Tutorial 4 pickup met score 
+TUTORIAL 4 pickup met score 
 
 ![Tutorial 4 pickup met score](https://github.com/user-attachments/assets/a828d27e-363a-47a5-af65-7b17be825d8e)
 
