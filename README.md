@@ -38,7 +38,9 @@ TUTORIAL 4 pickup met score
 
 ![Tutorial 4 pickup met score](https://github.com/user-attachments/assets/71a5326a-b68a-4e9d-a854-ba283cdb5e05)
 
-[Uploading Pickup.cs…]()
+[Uploading Pickup.cs…](https://github.com/Flyboyace/Unity-tutorials-1-t-m-8/blob/main/pickup)
+
+Hierboven het script voor de pickups
 
 
 
