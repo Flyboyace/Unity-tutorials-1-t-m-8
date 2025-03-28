@@ -28,7 +28,18 @@ TUTORIAL 3 springen op platforms
 
 ![tutorial 3 spring op platformen](https://github.com/user-attachments/assets/6f08ad3e-adde-4006-a87b-508eb8255c3d)
 
+[Uploading Playermovement.cs…](https://github.com/Flyboyace/Unity-tutorials-1-t-m-8/blob/main/Playermovement.cs)
+
+hierboven het script die ik gebruik om mijn character te laten springen
+
 ik heb mesh colliders gebruikt op deze voertuigen zodat ik erop kan staan
+
+Tutorial 4 pickup met score 
+
+![Tutorial 4 pickup met score](https://github.com/user-attachments/assets/a828d27e-363a-47a5-af65-7b17be825d8e)
+
+
+
 
 
 
