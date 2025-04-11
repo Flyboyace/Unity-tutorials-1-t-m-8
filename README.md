@@ -50,6 +50,9 @@ TUTORIAL 5 schieten en obstakels kapotmaken
 
 [Uploading Explosion.cs…](https://github.com/Flyboyace/Unity-tutorials-1-t-m-8/blob/main/Explosion)
 
+[Uploading Playerhealth.cs…](https://github.com/Flyboyace/Unity-tutorials-1-t-m-8/blob/main/Playerhealth)
+
+
 
 
 
