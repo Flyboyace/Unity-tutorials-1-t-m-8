@@ -46,6 +46,8 @@ TUTORIAL 5 schieten en obstakels kapotmaken
 
 ![schieten en obstakels](https://github.com/user-attachments/assets/85a4fcf8-1f97-4d6b-a99f-76d4ac431468)
 
+Hieronder de scripts
+
 [Uploading Enemyhit.cs…](https://github.com/Flyboyace/Unity-tutorials-1-t-m-8/blob/main/Enemyhit)
 
 [Uploading Explosion.cs…](https://github.com/Flyboyace/Unity-tutorials-1-t-m-8/blob/main/Explosion)
