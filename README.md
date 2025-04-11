@@ -54,6 +54,21 @@ Hieronder de scripts
 
 [Uploading Playerhealth.cs…](https://github.com/Flyboyace/Unity-tutorials-1-t-m-8/blob/main/Playerhealth)
 
+TUTORIAL 6 bijhouden van levens en creeëren van vijanden
+
+![health en enemies](https://github.com/user-attachments/assets/d2a0c59d-17f0-4b07-a651-082f08cbf2cb)
+
+Hieronder nogmaals dezelfde scripts
+
+[Uploading Enemyhit.cs…](https://github.com/Flyboyace/Unity-tutorials-1-t-m-8/blob/main/Enemyhit)
+
+[Uploading Explosion.cs…](https://github.com/Flyboyace/Unity-tutorials-1-t-m-8/blob/main/Explosion)
+
+[Uploading Playerhealth.cs…](https://github.com/Flyboyace/Unity-tutorials-1-t-m-8/blob/main/Playerhealth)
+
+
+
+
 
 
 
